@@ -23,4 +23,7 @@ status response 2
               modified:   file1.txt
 
 
-git pull 
+git pull
+git checkout readme
+git checkout main
+git merge readme
