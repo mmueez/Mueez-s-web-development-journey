@@ -1,3 +1,5 @@
+# Add a title
+
 clear
 git status
 git add .
@@ -23,4 +25,4 @@ status response 2
               modified:   file1.txt
 
 
-git pull 
+git pull
