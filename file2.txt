@@ -1,0 +1,26 @@
+clear
+git status
+git add .
+git commit -am "this is a commit message"
+git push
+Status response 1
+      on branch main
+      Your branch is up to date with 'origin/main'.
+
+      Changes not staged for commit:
+      (use "git add <file>..." to update what will be committed)
+      (use "git restore <file>..." to discard changes in working directory)
+      modified:   file1.txt
+
+status response 2
+      no changes added to commit (use "git add" and/or "git commit -a
+
+      On branch main
+      Your branch is up to date with 'origin/main'.
+
+      Changes to be committed:
+        (use "git restore --staged <file>..." to unstage)
+              modified:   file1.txt
+
+
+git pull 

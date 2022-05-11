@@ -1,1 +1,2 @@
-Hello Bhai Ahmed 
+Hello Bhai Ahmed
+clear
