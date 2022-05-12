@@ -4,40 +4,25 @@ We'll keep all our dev notes in here
 
 # Current progress:
 Starting lesson 1 - 10:48 -PM, May 9th 2022
-Gave up on lesson 1.2, spent the majority of my hour and a half on trying to send a file to github through the terminal but it is not working. Need help tomorrow 
+Gave up on lesson 1.2, spent the majority of my hour and a half on trying to send a file to github through the terminal but it is not working. Need help tomorrow
+* Current assignment: fill definitions for listed commands
 
+# notes
+* Programming languages are a vehicle for communication between humans and computer
+* JavaScript is primarily used for web applications, while Bash is primarily used for operating systems
+* A single instruction in a program is called a statement
 
-# GIT
+# Questions to think about
+* what is the working directory in git?
+* what is the staging area in git?
 
-## Glossary of commands
-```clear
-git status
-git add .
-git commit -am "this is a commit message"
-git push
-git pull```
+# Notes and terms to remember
+* Terminal = Git Bash
+* Repository on github = github project (inside the browser)
+* Repository on computer / folder = github project on your computer (inside the projects/mueez…folder)
+* Editor = visual studio code or atom
 
-List of Git Status responses:
+# Additional reading:
 
-```
-Status response 1
-      on branch main
-      Your branch is up to date with 'origin/main'.
-
-      Changes not staged for commit:
-      (use "git add <file>..." to update what will be committed)
-      (use "git restore <file>..." to discard changes in working directory)
-      modified:   file1.txt
-```
-
-```
-status response 2
-      no changes added to commit (use "git add" and/or "git commit -a
-
-      On branch main
-      Your branch is up to date with 'origin/main'.
-
-      Changes to be committed:
-        (use "git restore --staged <file>..." to unstage)
-              modified:   file1.txt
-```
+* [Video explaing git] (https://youtu.be/USjZcfj8yxE)
+* [Article explaing Git very simply](https://medium.com/nerd-for-tech/explain-like-im-5-git-869329ad8514#:~:text=Explain%20Life%20I%E2%80%99m%205%3A%20Git%20Photo%20by%20La-Rel,and%20revert%20to%20previous%20versions%20of%20your%20project)
