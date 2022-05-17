@@ -1,2 +1,9 @@
-Hello Bhai Ahmed
-clear
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Example
+</title>
+<link href=' ../assets/style.css' 
+rel='stylesheet'
+type='text/css'>
