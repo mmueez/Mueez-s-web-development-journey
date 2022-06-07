@@ -7,3 +7,7 @@ Example
 <link href=' ../assets/style.css' 
 rel='stylesheet'
 type='text/css'>
+</head>
+<body>
+<div class="site-header">
+<p class="site-title"> Turtle Ipsum</p>
